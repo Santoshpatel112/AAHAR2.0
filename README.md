@@ -1,8 +1,8 @@
-# TrackBite: Smart Food Waste & Donation Manager
+# AAHAR: Smart Food Waste & Donation Manager
 
 ## 🥗 Project Idea Summary
 
-**Goal:**
+**Sustainable Development with financial aid**
 A digital platform that uses smart waste tracking and donation logging to reduce food waste and improve sustainability in hospitality and food services, aligned with SDG 12.3 (Halve food waste by 2030).
 
 ---
@@ -73,14 +73,14 @@ Based on real-world case studies:
 
 ## 🧠 Key Features vs Others
 
-| Feature                  | Manual/Excel | Existing Donation Apps | TrackBite (Your Platform) |
-|-------------------------|:------------:|:---------------------:|:-------------------------:|
-| QR + Hash verification  |      ❌      |          ❌           |            ✅             |
-| CO₂ / kcal / cost saved |      ❌      |          ❌           |            ✅             |
-| Realtime Dashboards     |      ❌      |        Partial         |            ✅             |
-| Auto Reporting          |      ❌      |          ❌           |            ✅             |
-| PWA & Offline Support   |      ❌      |          ❌           |            ✅             |
-| BCR (Benefit-to-Cost)   |   Unknown    |       Unknown          |        11:1 (proven)      |
+| Feature                  | Manual/Excel | Existing Donation Apps | AAHAR (Your Platform) |
+|-------------------------|:------------:|:---------------------:|:---------------------:|
+| QR + Hash verification  |      ❌      |          ❌           |          ✅           |
+| CO₂ / kcal / cost saved |      ❌      |          ❌           |          ✅           |
+| Realtime Dashboards     |      ❌      |        Partial         |          ✅           |
+| Auto Reporting          |      ❌      |          ❌           |          ✅           |
+| PWA & Offline Support   |      ❌      |          ❌           |          ✅           |
+| BCR (Benefit-to-Cost)   |   Unknown    |       Unknown          |      11:1 (proven)    |
 
 ---
 
