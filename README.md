@@ -2,6 +2,10 @@
 
 AAHAR is a comprehensive food donation and waste reduction platform designed for restaurants, hotels, NGOs, and administrators. It leverages smart technology to track, verify, and manage food donations, ensuring transparency, efficiency, and measurable impact.
 
+## Repository Links
+- **Backend Code:** [https://github.com/sss2025initiative/Aahaar](https://github.com/sss2025initiative/Aahaar)
+- **Frontend Code:** [https://github.com/Santoshpatel112/AAHAR2.0](https://github.com/Santoshpatel112/AAHAR2.0)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -32,7 +36,8 @@ AAHAR connects food donors (restaurants, hotels, etc.) with NGOs to reduce food 
 - **Secure Authentication:** Context-based auth management
 
 ## Technology Stack
-- **Frontend:** React, TypeScript, Tailwind CSS
+- **Frontend:** React, TypeScript, Tailwind CSS ([Frontend Repo](https://github.com/Santoshpatel112/AAHAR2.0))
+- **Backend:** Node.js, Express.js, MongoDB ([Backend Repo](https://github.com/sss2025initiative/Aahaar))
 - **Routing:** React Router
 - **State Management:** React Context API
 - **UI Components:** Custom and reusable components
@@ -42,7 +47,7 @@ AAHAR connects food donors (restaurants, hotels, etc.) with NGOs to reduce food 
 ```
 AAHAR/
   ├── public/                # Static assets
-  ├── src/
+  ├── src/                   # Frontend source code ([Frontend Repo](https://github.com/Santoshpatel112/AAHAR2.0))
   │   ├── components/        # UI components (NavBar, Footer, Dashboards, etc.)
   │   ├── contexts/          # Auth context
   │   ├── hooks/             # Custom hooks
@@ -50,6 +55,7 @@ AAHAR/
   │   ├── pages/             # Page components (Login, Dashboard, Donate, etc.)
   │   ├── types/             # TypeScript types
   │   └── main.tsx           # App entry point
+  ├── backend/               # Backend source code ([Backend Repo](https://github.com/sss2025initiative/Aahaar))
   ├── index.html             # Main HTML file
   ├── package.json           # Project metadata
   └── README.md              # Project documentation
@@ -120,6 +126,18 @@ flowchart TD
 - **Admin Panel:** User and donation management, platform settings
 
 ---
+
+## Contribution
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+
+## License
+This project is licensed under the MIT License.
 
 
 
